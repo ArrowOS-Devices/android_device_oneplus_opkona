@@ -1,0 +1,22 @@
+[
+    {
+        "repository":   "android_kernel_oneplus_sm8250",
+        "target_path":  "kernel/oneplus/sm8250",
+        "branch":       "staging/arrow-13.1"
+    },
+    {
+        "repository":   "android_vendor_oneplus_opkona",
+        "target_path":  "vendor/oneplus/opkona",
+        "branch":       "staging/arrow-13.1"
+    },
+    {
+        "repository":   "android_vendor_qcom_common",
+        "target_path":  "vendor/qcom/common",
+        "branch":       "staging/arrow-13.1"
+    },
+    {
+        "repository":   "android_device_qcom_common",
+        "target_path":  "device/qcom/common",
+        "branch":       "staging/arrow-13.1"
+    }
+]
